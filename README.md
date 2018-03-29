@@ -1,3 +1,6 @@
+# my.cnf详解，适用在mysql5.6版本。
+
+ 
 ```
 [client]  
 port = 3306  
